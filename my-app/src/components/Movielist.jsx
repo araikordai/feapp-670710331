@@ -1,0 +1,8 @@
+function Movielist() {
+  return (
+    <main>
+      <p>รายการหนังจะมาอยู่ตรงนี้...</p>
+    </main>
+  );
+}
+export default Movielist;
